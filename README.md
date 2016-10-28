@@ -122,7 +122,7 @@ Root url SARCAT will serve from. Generally should be localhost.
 ----------
 
 
-# **Manuel** #
+# **Manual** #
 
 
 
